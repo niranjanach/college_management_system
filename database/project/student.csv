@@ -1,0 +1,82 @@
+Registration,DateOfAdmission,Rollnumber,Name,Gender,DateofBirth,Address,ParentPhoneNumber,Class,Section
+10901,1/6/2017,1,Agarwal,"2d/2, Sidco Indl Est,chennai",M,29-07-99,9574612384,CSE,A
+10902,5/6/2017,2,Anand,"13-c, Gengu Reddy St, Egmore,chennai",M,23-04-99,9875362140,CSE,A
+10903,8/6/2017,3,Tanya,"1, 1st Floor, Madurai Veerankoil St, T Nagar",F,8/12/1999,9846235710,CSE,A
+10904,8/6/2017,4,Priyanka,"14,2nd Floor, 2nd Street,thirumorthy Nagar, Nungambakkam",F,27-10-99,9846251370,CSE,A
+10905,5/6/2017,5,Aditya,"861, Anna Salai",M,29-05-99,9012547863,CSE,A
+10906,4/6/2017,6,Abhishek,"281, Annasalai, Teynampet",M,25-10-99,9632587410,CSE,A
+10907,1/6/2017,7,Rahul,"18/12, Ist St, Kumaran Nagar, Anna Nagar East",M,17-11-99,9513574622,CSE,A
+10908,1/6/2017,8,Rohit,"31-a, Narasingapuram, Mylapore",M,12/7/1999,9731284650,CSE,A
+10909,2/6/2017,9,Divya,"18/1,appasamy Street, St Rahans Road, Pattalam",F,13-11-99,9736415208,CSE,A
+10910,8/6/2017,10,Anjali,"32-d, Poes Road,2nd Street, Teynampet",F,1/5/1999,9578463210,CSE,A
+10911,11/6/2017,11,Sneha,"11, Wallajah Road",F,30-01-99,9630214587,CSE,A
+10912,15-06-17,12,Aishwarya,"1, Easwarar Nagar 3rd Street, Kodambakkam",F,7/12/1999,9874512360,CSE,A
+10913,18-06-17,13,Varsha,"37, Sringeri Mutt Road, R K Nagar, R A Puram",F,7/11/1999,9632541870,CSE,A
+10914,14-06-17,14,Deepak,"717 Mount Road, Anna Salai",M,26-05-99,9874631250,CSE,A
+10915,15-06-17,15,Raj,"98 Gowdiya Mutt Road, Royapettah",M,28-02-99,9523687410,CSE,A
+10916,2/6/2017,16,Nikita,"7/3-c, Madely Road, T Nagar",M,26-08-99,9547863201,CSE,A
+10917,4/6/2017,17,Sanjana,"77, Rama St, Royapuram",F,16-02-99,9025874136,CSE,A
+10918,6/6/2017,18,Neha,"6, Aziz Mulk 7th Street, Thousand Lights",F,15-10-99,9201456378,CSE,A
+10919,8/6/2017,19,Ramya,"14, Wallers Road, Chindrapet",F,17-06-99,9035784126,CSE,A
+10920,7/6/2017,20,Arjun,"3, Madley Road, T Nagar",M,30-11-99,9587463210,CSE,A
+10921,5/6/2017,1,Manoj,"137, 3rd Main Road, Vignarajapuram, Vengaivasal",M,11/7/1999,9632784510,IT,A
+10922,3/6/2017,2,Ananya,"17, A-7, South Mada Street, Nungambakkam",F,14-05-99,9568732410,IT,A
+10923,9/6/2017,3,Aswini,"14/13, Narayani Apartment, Sringeri Mutt Road",F,10/3/1999,9357862410,IT,A
+10924,11/6/2017,4,Pavithra,"10, Madha Church Road, R A Puram",F,16-01-99,9014235786,IT,A
+10925,3/6/2017,5,Akash,"5, Somasundara Mudali St, Parrys",M,1/9/1999,9623514870,IT,A
+10926,13-06-17,6,Rakesh,"294/1, 1st Flr, Arcot Road, Kodambakkam",M,8/8/1999,9036215847,IT,A
+10927,17-06-17,7,sana,"54 Vyasarpadi Industrieal Est, Perambur",F,23-06-99,9306205108,IT,A
+10928,19-06-17,8,Naveen,"38,new-24 Kutty St, Nungambakkam",M,5/1/1999,9300125478,IT,A
+10929,20-06-17,9,Anusha,"15 State Bank Street, Mount Road",F,16-05-99,9502147863,IT,A
+10930,4/6/2017,10,Simran,"41/a2,vivek Nagar, Ambattur",F,24-07-99,9012365874,IT,A
+10931,8/6/2017,11,Nisha,"16, Sriram Nagar South Street, Alwarpet",F,31-03-99,9512304789,IT,A
+10932,7/6/2017,12,Anushri,"174/6, Usman Road, T Nagar",F,27-03-99,9157486230,IT,A
+10933,2/6/2017,13,Vinay,"3 G-1, South Mada Street Opp.nmbkm Police Stn",M,16-12-99,9875641230,IT,A
+10934,7/6/2017,14,Vivek,"18, Jayammal Road, Teynampet",M,6/3/1999,9014756238,IT,A
+10935,6/6/2017,15,Kumar,"136/2, Habibullah Road, T Nagar",M,27-08-99,9014786523,IT,A
+10936,7/6/2017,16,Abhinav,"35, New No 44, Appavu Gramani Street, Ellis Road",M,25-08-99,9104236587,IT,A
+10937,1/6/2017,17,Radhika,"164, Big Street, Tripilicane",F,14-11-99,9867532410,IT,A
+10938,5/6/2017,18,Krithika,"9, Old No 17, Visweswarapuram Street, Mylapore",F,4/1/1999,9025413687,IT,A
+10939,11/6/2017,19,Kalyani,"17, Venkatesan Street Mount Road",F,22-02-99,9578412360,IT,A
+10940,18-06-17,20,Ajith,"61, Old No 18/5, Velachery Road, Little Mount, Saidapet",M,31-07-99,9631584720,IT,A
+10941,13-06-17,1,jay,"14/34, Venkatraman Street, T Nagar",M,16-12-99,9875462130,MECH,A
+10942,14-06-17,2,Vishal,"27,north Usman Road, T Nagar",M,7/9/1999,9620158743,MECH,A
+10943,18-06-17,3,Vikas,"13, Vengu Chetty Street, Park Town",M,2/10/1999,9512478630,MECH,A
+10944,4/6/2017,4,Mary,"52/60,2nd Floor, Flat-c-2, Sai Krishna Apart, Palayakaran St, Kodambakkam",F,29-06-99,9578641230,MECH,A
+10945,18-06-17,5,Sara,"37, 3rd Flr, Prasad Chambers, Conran Smith Road, Gopalapuram",F,5/12/1999,9587412360,MECH,A
+10946,19-06-17,6,Indhumathi,"348/old 343, Mint St, Sowcarpet",F,5/1/1999,9587463210,MECH,A
+10947,15-06-17,7,Shrinidhi,"6, Nallathambi Road, Anna Nagar, Pammal",F,20-04-99,9510235748,MECH,A
+10948,4/6/2017,8,Sanjay,"14, 1st Floor, P V Cherian Crescent",M,30-11-99,9587463210,MECH,A
+10949,8/6/2017,9,Shivam,"No 5, Raman Street,t.nagar",M,19-05-99,9520147863,MECH,A
+10950,10/6/2017,10,Nishant,"9, Vasanth Apartments, 4, 3rd Floor, Montieth Lane, Egmore",M,25-04-99,9630258741,MECH,A
+10951,12/6/2017,11,Nitin,"9, Cenotaph Road, Nandanam",M,16-06-99,9603258741,MECH,A
+10952,14-06-17,12,Arthi,"54, K.b.dasan Road, Teynampet",F,16-03-99,9263085741,MECH,A
+10953,16-06-17,13,Manisha,"174/6, Usman Road, T Nagar",F,23-11-99,9635208741,MECH,A
+10954,18-06-17,14,Krishna,"16/13, Vengu Chetty St, Park Town Near Hotel Sornam Intl",M,29-12-99,9874560321,MECH,A
+10955,20-06-17,15,John,"E-2, 1st Flr Gemini Parsn Comp, K H Road",M,13-05-99,9512360478,MECH,A
+10956,2/6/2017,16,Mahima,"No.8,maharaja Surya Road, Alwarpet",F,31-07-99,9638475120,MECH,A
+10957,1/6/2017,17,Aditi,"739 Mount Road, T M B Mansion",F,30-06-99,9623587410,MECH,A
+10958,3/6/2017,18,Varun,"51, New No 22, V K Road, Mandaveli",M,25-04-99,9510236748,MECH,A
+10959,5/6/2017,19,Anish,"30, Maddoxst, Choolai",M,27-05-99,9874560321,MECH,A
+10960,7/6/2017,20,Trisha,"10/11 Khatodi Plaza, 85 Nsc Bose Road",F,8/9/1999,9510236874,MECH,A
+10961,9/6/2017,1,Swati,"18, Wallajah Road",F,2/3/1999,9632580147,CIVIL,A
+10962,11/6/2017,2,Abdul,"B-2, Gee Gee Plaza Wheatcrofts R, Nungambakkam",M,29-01-99,9523687410,CIVIL,A
+10963,13-06-17,3,Siddharth,"15,(4), 2ndcrs Voc Ngr, Anna Nagar East",M,1/11/1999,9587412360,CIVIL,A
+10964,15-06-17,4,Dia,"18/1,appasamy Street, St Rahans Road, Pattalam",F,15-09-99,9568741230,CIVIL,A
+10965,17-06-17,5,Ria,"122, Vellala Street, Purasawalkam",F,27-12-99,9587463210,CIVIL,A
+10966,19-06-17,6,Mohit,"23, Patachari Street, Ayanavaram",M,12/11/1999,9683257410,CIVIL,A
+10967,2/6/2017,7,Arun,"14/34, Venkatraman Street, T Nagar",M,15-06-99,9357846210,CIVIL,A
+10968,4/6/2017,8,Anu,"127, Greams Road, Thousand Lights",F,27-05-99,9513468270,CIVIL,A
+10969,6/6/2017,9,Nisha,"1, Shop No-5, L B Road,mg Road Corner, Thiruvanmiyur",F,4/8/1999,9024786315,CIVIL,A
+10970,8/6/2017,10,Ajay,"11, Cathedral Road",M,18-04-99,9635784120,CIVIL,A
+10971,10/6/2017,11,Shashank,"No 66,3rd Main Road, Kalaimagal Nagar, Ekkaduthangal",M,28-06-99,9524786310,CIVIL,A
+10972,12/6/2017,12,Chandralekha,"80/157, Bells Road, Triplicane",F,10/7/1999,9014753628,CIVIL,A
+10973,14-06-17,13,Mitali,"32,3rd Floor, Sembudoss St, Parrys",F,19-11-99,9512478630,CIVIL,A
+10974,16-06-01,14,Anirudh,"6, Pushpa Colony, Saligramam",M,22-07-99,9846231750,CIVIL,A
+10975,18-06-17,15,Ram,"4/10, Sathya Nagar, Ramapuram",M,10/10/1999,9578463120,CIVIL,A
+10976,20-06-17,16,Anjana,"11/2, Kennet Lane, Egmore",F,10/3/1999,9236514780,CIVIL,A
+10977,1/6/2017,17,deepa,"8, Sivram Sastry St, 1st Floor, Park Town",F,28-08-99,9371842650,CIVIL,A
+10978,3/6/2017,18,Anamika,"15, S P S 2nd St",F,24-05-99,9378462105,CIVIL,A
+10979,5/6/2017,19,Gokul,"73 &74, B4, Panna Plaza, Kodambakkam",M,29-06-99,9526347810,CIVIL,A
+10980,7/6/2017,20,Nikhil,"39, Swathi Apartments, 10th Avenue, Ashok Nagar",M,31-03-99,9263548710,CIVIL,A
+10981,16-05-2005,28,niranjan,5/5nanchil,M,16-05-2003,9444236596,computerscience engineering,A
